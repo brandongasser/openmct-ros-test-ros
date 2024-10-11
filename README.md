@@ -1,6 +1,6 @@
 # Open MCT / ROS 2 Telemetry Test (ROS 2)
 
-This project should be used in conjunction with the [Open MCT project](https://github.com/brandongasser/openmct-ros-test-openmct)
+This project should be used alongside the [Open MCT project](https://github.com/brandongasser/openmct-ros-test-openmct)
 
 ## About this Project
 
