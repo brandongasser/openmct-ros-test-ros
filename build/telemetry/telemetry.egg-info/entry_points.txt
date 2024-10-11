@@ -1,0 +1,4 @@
+[console_scripts]
+telemetry_server = telemetry.telemetry_server:main
+telemetry_source = telemetry.telemetry_source:main
+

@@ -1,0 +1,25 @@
+[0.475s] Invoking command in '/home/brandon/openmct-ros-test-ros/src/telemetry': PYTHONPATH=/home/brandon/openmct-ros-test-ros/build/telemetry/prefix_override:/home/brandon/openmct-ros-test-ros/install/telemetry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/telemetry build --build-base /home/brandon/openmct-ros-test-ros/build/telemetry/build install --record /home/brandon/openmct-ros-test-ros/build/telemetry/install.log --single-version-externally-managed
+[0.626s] running egg_info
+[0.627s] writing ../../build/telemetry/telemetry.egg-info/PKG-INFO
+[0.627s] writing dependency_links to ../../build/telemetry/telemetry.egg-info/dependency_links.txt
+[0.627s] writing entry points to ../../build/telemetry/telemetry.egg-info/entry_points.txt
+[0.627s] writing requirements to ../../build/telemetry/telemetry.egg-info/requires.txt
+[0.627s] writing top-level names to ../../build/telemetry/telemetry.egg-info/top_level.txt
+[0.628s] reading manifest file '../../build/telemetry/telemetry.egg-info/SOURCES.txt'
+[0.629s] writing manifest file '../../build/telemetry/telemetry.egg-info/SOURCES.txt'
+[0.629s] running build
+[0.630s] running build_py
+[0.630s] copying telemetry/telemetry_server.py -> /home/brandon/openmct-ros-test-ros/build/telemetry/build/lib/telemetry
+[0.630s] running install
+[0.630s] running install_lib
+[0.630s] copying /home/brandon/openmct-ros-test-ros/build/telemetry/build/lib/telemetry/telemetry_server.py -> /home/brandon/openmct-ros-test-ros/install/telemetry/lib/python3.10/site-packages/telemetry
+[0.631s] byte-compiling /home/brandon/openmct-ros-test-ros/install/telemetry/lib/python3.10/site-packages/telemetry/telemetry_server.py to telemetry_server.cpython-310.pyc
+[0.631s] running install_data
+[0.631s] running install_egg_info
+[0.633s] removing '/home/brandon/openmct-ros-test-ros/install/telemetry/lib/python3.10/site-packages/telemetry-0.0.0-py3.10.egg-info' (and everything under it)
+[0.633s] Copying ../../build/telemetry/telemetry.egg-info to /home/brandon/openmct-ros-test-ros/install/telemetry/lib/python3.10/site-packages/telemetry-0.0.0-py3.10.egg-info
+[0.634s] running install_scripts
+[0.647s] Installing telemetry_server script to /home/brandon/openmct-ros-test-ros/install/telemetry/lib/telemetry
+[0.648s] Installing telemetry_source script to /home/brandon/openmct-ros-test-ros/install/telemetry/lib/telemetry
+[0.648s] writing list of installed files to '/home/brandon/openmct-ros-test-ros/build/telemetry/install.log'
+[0.665s] Invoked command in '/home/brandon/openmct-ros-test-ros/src/telemetry' returned '0': PYTHONPATH=/home/brandon/openmct-ros-test-ros/build/telemetry/prefix_override:/home/brandon/openmct-ros-test-ros/install/telemetry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/telemetry build --build-base /home/brandon/openmct-ros-test-ros/build/telemetry/build install --record /home/brandon/openmct-ros-test-ros/build/telemetry/install.log --single-version-externally-managed
