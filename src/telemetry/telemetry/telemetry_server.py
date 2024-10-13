@@ -14,7 +14,7 @@ class TelemetryServer(Node):
         
         self.__data = 0
         
-        self.create_subscription(Float64, 'telemetry', lambda msg : asyncio.run(self.__update_data(msg)), 10)
+        self.create_subscription(Float64, 'telemetry', self.__update_data, 10)
         
         Thread(target=lambda : asyncio.run(self.__start_websocket())).start()
         
