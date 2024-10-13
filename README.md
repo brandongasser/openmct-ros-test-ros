@@ -38,7 +38,3 @@ Run the project
 ```
 $ ros2 launch launch/telemetry.launch.py
 ```
-
-## Known Issues
-
-- Once connected to an Open MCT client, if that client is closed or reloaded, this project will not accept another Open MCT client. It is required to stop the program and rerun it.
